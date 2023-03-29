@@ -21,6 +21,6 @@
 ## 영상5
 * Arrange: 정렬 
 * Summarize: aggregated function(개별 data를 뭉쳐서 특정한 data)
-- 여러개의 요약 정보를 동시에 도출 가능
+    * 여러개의 요약 정보를 동시에 도출 가능
 * Group by: subgroup analysis에 유용(그룹을 나눠서 내가 원하는 값 도출)
 * na.rm=T(NA 값을 지우고 원하는 값 도출)
