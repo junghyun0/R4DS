@@ -14,4 +14,8 @@
 * is.na() 함수를 이용하여 NA 값 filter 가능
 
 ## 영상4(Mutate)
-* 
+* 기존 data에 없던 새로우 변수 생성 가능
+* ifelse()를 이용하여 Mutate()내에 조건 부여 가능
+* Cut()을 이용하여 continuous variable을 변주형 변수로 바꿀 수 있음
+
+## 영상5(Arrange)
